@@ -81,5 +81,46 @@
 ![image](https://user-images.githubusercontent.com/71927210/131786398-01eb388e-f0ae-405d-9795-b8e3ef39af80.png)
 ![image](https://user-images.githubusercontent.com/71927210/131786423-538dea3d-ef87-499b-9239-2d1258ed3db8.png)
 
+ 4. 내게쓰기
+
+![image](https://user-images.githubusercontent.com/71927210/131786811-c2bda2a9-2382-4c91-913d-6b6e810dfc68.png)
+
+
+ 5. 답장하기
+
+![image](https://user-images.githubusercontent.com/71927210/131786659-aa11a222-8410-4543-a19d-9e4b37ff7780.png)
+![image](https://user-images.githubusercontent.com/71927210/131786680-d3698eac-9155-4389-9079-adb5fb9e0bb6.png)
+
+
+ 6. 전달하기
+
+![image](https://user-images.githubusercontent.com/71927210/131786712-de687fe8-8416-4d70-aa38-bf00a3f6fb43.png)
+![image](https://user-images.githubusercontent.com/71927210/131786720-4c53c666-4403-4b03-91ca-6175a407ec3b.png)
+
+ 7. 메일함
+
+![image](https://user-images.githubusercontent.com/71927210/131787837-71c6bb83-92d8-47e0-8843-a476af9400dc.png)
+
 ### * 예방 유지보수
 - 이해성과 유지보수성을 개선을 위한 유지보수
+
+ 1. 메일 제목 미입력 방지
+
+
+![image](https://user-images.githubusercontent.com/71927210/131786891-b823f00a-dac4-43de-bfbe-2ab5dfb4624a.png)
+![image](https://user-images.githubusercontent.com/71927210/131786881-d875596b-7e1f-4a8f-b0f0-0545ade0f58b.png)
+![image](https://user-images.githubusercontent.com/71927210/131786929-f475024a-14be-490a-80ac-6789b9a5fbca.png)
+
+ 2. 회원가입
+ 
+![image](https://user-images.githubusercontent.com/71927210/131787175-a4be9492-48e3-4827-babf-11ff442d4c17.png)
+![image](https://user-images.githubusercontent.com/71927210/131787185-42845982-0d7d-4a6e-92c4-d5d415c3f334.png)
+
+![image](https://user-images.githubusercontent.com/71927210/131787205-80861f2c-d160-4870-b760-5d8c818fa940.png)
+![image](https://user-images.githubusercontent.com/71927210/131787212-b7f5a91f-a7d6-41c3-b86b-bf782703a2f5.png)
+
+![image](https://user-images.githubusercontent.com/71927210/131787227-bb2ab64d-3e2c-4079-9ce5-b3e490da8fec.png)
+![image](https://user-images.githubusercontent.com/71927210/131787409-b18d11b8-ad43-49f8-9a0d-54b95cf7142c.png)
+
+![image](https://user-images.githubusercontent.com/71927210/131787446-61b40ebb-ae86-4a60-9ec0-e308d1d26b41.png)
+![image](https://user-images.githubusercontent.com/71927210/131787450-1ce10ced-2528-464f-9192-a4ca9c5c14e9.png)

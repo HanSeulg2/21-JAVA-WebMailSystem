@@ -5,3 +5,5 @@
 - Techs : JavaMail api 7.0
 - Database : MySQL 8.0.23
 - 형성관리 : gitHub
+
+# 주요기능 
